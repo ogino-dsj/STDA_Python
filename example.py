@@ -3,7 +3,6 @@
 Created on Mon Feb 22 21:52:02 2021
 
 @author: Mikito Ogino Japan
-Keio University, Dentsu ScienceJam Inc.
 """
 
 import numpy as np
