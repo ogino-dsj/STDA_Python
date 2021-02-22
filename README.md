@@ -1,6 +1,6 @@
 # Overview
-This program is python version of spatial-temporal discriminant analysis (STDA) for event-related potential classification in BCI application.
-The training and testing can be run like scikit-learn (fit() and predict_proba())
+This program is python version of spatial-temporal discriminant analysis (STDA) for event-related potential classification in BCI application.  
+The training and testing can be run like scikit-learn (fit() and predict_proba())  
 The original codes are written in MATLAB code here (Yu Zhang (2021). STDAforERP_Demo.zip (https://www.mathworks.com/matlabcentral/fileexchange/47527-stdaforerp_demo-zip), MATLAB Central File Exchange. Retrieved February 22, 2021.)
 
 # Original paper
