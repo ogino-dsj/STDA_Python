@@ -1,3 +1,4 @@
+# spatial-temporal discriminant analysis (STDA)
 # Overview
 This program is python version of spatial-temporal discriminant analysis (STDA) for event-related potential classification in BCI application.  
 The training and testing can be run like scikit-learn (fit() and predict_proba())  
