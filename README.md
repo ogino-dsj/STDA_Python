@@ -8,8 +8,8 @@ Y. Zhang, G. Zhou, Q. Zhao, J. Jin, X. Wang, A. Cichocki. Spatial-temporal discr
 # How to start?
 1. Put example.py and STDA.py in same directory
 2. Install required python packages
--numpy
--copy
--scipy
--sklearn
+- numpy
+- copy
+- scipy
+- sklearn
 3. Run example.py
